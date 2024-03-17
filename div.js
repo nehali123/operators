@@ -1,4 +1,5 @@
-var x = 4;
-var y = 8;
-var z = y / x;
-console.log(y / x);
+let ali = 4;
+let neha = 8;
+let division = neha / ali;
+console.log(division);
+export {};

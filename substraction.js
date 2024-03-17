@@ -1,4 +1,5 @@
-var a = 4;
-var b = 2;
-var c = (a - b);
+let a = 4;
+let b = 2;
+let c = (a - b);
 console.log(c);
+export {};

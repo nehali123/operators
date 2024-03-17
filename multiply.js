@@ -1,4 +1,5 @@
-var num3 = 4;
-var num4 = 5;
-var num5 = num3 * num4;
+let num3 = 4;
+let num4 = 5;
+let num5 = num3 * num4;
 console.log(num5);
+export {};
